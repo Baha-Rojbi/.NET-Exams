@@ -1,17 +1,17 @@
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.AssemblyInfo.cs
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.deps.json
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.runtimeconfig.json
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.pdb
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.ApplicationCore.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.ApplicationCore.pdb
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.CopyComplete
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\refint\Test.Infrastructure.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.pdb
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.genruntimeconfig.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.Infrastructure\obj\Debug\net6.0\ref\Test.Infrastructure.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.AssemblyInfo.cs
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.deps.json
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.runtimeconfig.json
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.Infrastructure.pdb
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.ApplicationCore.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\bin\Debug\net6.0\Test.ApplicationCore.pdb
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.csproj.CopyComplete
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\refint\Test.Infrastructure.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.pdb
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\Test.Infrastructure.genruntimeconfig.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.Infrastructure\obj\Debug\net6.0\ref\Test.Infrastructure.dll

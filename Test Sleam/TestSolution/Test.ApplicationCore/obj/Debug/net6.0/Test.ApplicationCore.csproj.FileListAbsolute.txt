@@ -1,12 +1,12 @@
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.csproj.AssemblyReference.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.AssemblyInfoInputs.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.AssemblyInfo.cs
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.deps.json
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.pdb
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\refint\Test.ApplicationCore.dll
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.pdb
-C:\Users\bahar\Desktop\9raya\4sae2\.Net test\Test Sleam\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\ref\Test.ApplicationCore.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.AssemblyInfo.cs
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.deps.json
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\bin\Debug\net6.0\Test.ApplicationCore.pdb
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\refint\Test.ApplicationCore.dll
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\Test.ApplicationCore.pdb
+C:\Users\bahar\Desktop\9raya\Random projects\Squelette\TestSolution\Test.ApplicationCore\obj\Debug\net6.0\ref\Test.ApplicationCore.dll

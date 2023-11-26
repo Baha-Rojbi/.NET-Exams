@@ -3027,11 +3027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Console\\Test.Console.csproj",
+      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Console\\Test.Console.csproj",
       "projectName": "Test.Console",
-      "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Console\\Test.Console.csproj",
+      "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Console\\Test.Console.csproj",
       "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Console\\obj\\",
+      "outputPath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3048,8 +3048,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj"
+            "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj"
             }
           }
         }

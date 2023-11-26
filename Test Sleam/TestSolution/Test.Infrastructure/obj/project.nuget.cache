@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VL1aDA2BbUqSC1yn2X8n0eiP6hiKynDJNtkd59UGWoYZKLMLOV0+nihjuywkgdC/l4MSXeZl/YOKWSAbBbKi5A==",
+  "dgSpecHash": "07w+8mwsaClmpQ2gTUsVoRk7X+WRMdo4BLjF/43PyDkec/CCZqaZyoY8dZSNTmneVqvnRtbXtJcFAV2oesR13A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.Infrastructure\\Test.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

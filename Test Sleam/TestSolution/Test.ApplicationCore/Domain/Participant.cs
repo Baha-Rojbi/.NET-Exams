@@ -10,11 +10,12 @@ namespace Test.ApplicationCore.Domain
     public class Participant
     {
         public int Id { get; set; }
-        [MaxLength(50, ErrorMessage = "Longueur maximale est 50")]
-        public String Nom { get; set; }
-        [MaxLength(50, ErrorMessage = "Longueur maximale est 50")]
+        [MaxLength(50, ErrorMessage = "Longueur max 50")]
+        public string Nom { get; set; }
+        [MaxLength(50, ErrorMessage = "Longueur max 50")]
         public String Prenom { get; set; }
-        [Display(Name = "Adresse")]
+
+        [Display(Name="Adresse Mail")]
         [DataType(DataType.EmailAddress)]
         public String Email { get; set; }
         public int NumeroTelephone { get; set; }

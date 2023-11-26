@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test.ApplicationCore.Domain
 {
-    public class Industriel:Participant
+    public class Industriel : Participant
     {
         public String Fonction { get; set; }
         public String NomEntreprise { get; set; }

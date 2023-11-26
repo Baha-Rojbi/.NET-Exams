@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
       "projectName": "Test.ApplicationCore",
-      "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bahar\\Desktop\\9raya\\4sae2\\.Net test\\Test Sleam\\TestSolution\\Test.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\bahar\\Desktop\\9raya\\Random projects\\Squelette\\TestSolution\\Test.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
