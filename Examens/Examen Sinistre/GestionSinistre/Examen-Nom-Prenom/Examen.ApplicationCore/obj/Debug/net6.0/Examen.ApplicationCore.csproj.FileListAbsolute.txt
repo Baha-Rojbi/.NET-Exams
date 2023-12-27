@@ -1,0 +1,47 @@
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrator\source\repos\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+D:\zeineb\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Asus\Downloads\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Sinistre\GestionSinistre\Examen-Nom-Prenom\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
