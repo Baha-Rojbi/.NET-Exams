@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj": {}
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj": {}
   },
   "projects": {
-    "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
         "projectName": "Examen.ApplicationCore",
-        "projectPath": "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Abir Hbecha\\.nuget\\packages\\",
-        "outputPath": "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abir Hbecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
         "projectName": "Examen.Infrastructure",
-        "projectPath": "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Abir Hbecha\\.nuget\\packages\\",
-        "outputPath": "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abir Hbecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-                "projectPath": "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
               }
             }
           }
@@ -123,7 +124,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
         "projectName": "Examen.Web",
-        "projectPath": "D:\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
-        "packagesPath": "C:\\Users\\Abir Hbecha\\.nuget\\packages\\",
-        "outputPath": "D:\\Examen-Nom-Prenom\\Examen.Web\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abir Hbecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,11 +162,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-                "projectPath": "D:\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
               },
-              "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-                "projectPath": "D:\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Correction\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
               }
             }
           }
@@ -212,7 +214,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -224,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/WId+AXHCBx7o5a829HY4RC/XgfmvgolUV07ucuySYbxCwD81y+G8MtT7eL6BJizBt5UXqpiSd20ZoyLLb8Oxw==",
+  "dgSpecHash": "a8bbpOuhdUSjCs7gMx6BKBuxvMOFVn7cB3qhmdenY+4nbLv5byBMw0yenP1wk93+7T7vevZuxPbaiTObKWHlsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\SqueletteExamen\\Exam\\Exam.WebApplication\\Exam.WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\1-ExamenAlternance\\Travail\\Exam\\Exam.WebApplication\\Exam.WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
