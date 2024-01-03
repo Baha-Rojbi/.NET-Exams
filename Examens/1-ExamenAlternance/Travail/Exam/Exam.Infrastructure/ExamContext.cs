@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Exam.CoreApplication.Domain;
+using Exam.Infrastructure.Configurations;
 
 namespace Exam.Infrastructure
 {
@@ -14,24 +16,28 @@ namespace Exam.Infrastructure
             optionsBuilder.UseLazyLoadingProxies();
 
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
-Initial Catalog=ExamDB;Integrated Security=true; MultipleActiveResultSets = true");
+Initial Catalog=ExamenAlternance;Integrated Security=true; MultipleActiveResultSets = true");
             base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.ApplyConfiguration(new PlaneConfiguration());
+            modelBuilder.ApplyConfiguration(new ProduitConfiguration());
             //modelBuilder.ApplyConfiguration(new FlightConfiguration());
             //modelBuilder.ApplyConfiguration(new PassengerConfiguration());
             //modelBuilder.ApplyConfiguration(new TicketConfiguration());
         }
-        //public DbSet<Flight> Flights { get; set; }
+        public DbSet<Produit> Produits { get; set; }
+        public DbSet<Biologique> Biologiques { get; set; }
+        public DbSet<Categorie> Categories { get; set; }
+        public DbSet<Chimique> Chimiques { get; set; }
+        public DbSet<Fournisseur> Fournisseurs { get; set; }
 
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
         {
             //configurationBuilder.Properties<DateTime>().HaveColumnType("date");
 
-            //configurationBuilder.Properties<String>().HaveMaxLength(50);
+            configurationBuilder.Properties<String>().HaveMaxLength(50);
         }
 
     }

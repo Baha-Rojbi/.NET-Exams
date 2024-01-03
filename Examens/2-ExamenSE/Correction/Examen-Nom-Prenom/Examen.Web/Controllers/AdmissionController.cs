@@ -8,21 +8,21 @@ namespace Examen.Web.Controllers
 {
     public class AdmissionController : Controller
     {
-        IServiceChambre sc;
-        IServicePatient sp;
-        IServiceAdmission sa;
+            IServiceChambre sc;
+            IServicePatient sp;
+            IServiceAdmission sa;
 
-        public AdmissionController(IServiceChambre sc, IServicePatient sp, IServiceAdmission sa)
-        {
-            this.sc = sc;
-            this.sp = sp;
-            this.sa = sa;
-        }
+            public AdmissionController(IServiceChambre sc, IServicePatient sp, IServiceAdmission sa)
+            {
+                this.sc = sc;
+                this.sp = sp;
+                this.sa = sa;
+            }
 
         // GET: AdmissionController
         public ActionResult Index()
         {
-            return View(sa.GetAll().OrderBy(p=>p.DateAdmission));
+                return View(sa.GetAll().OrderBy(p=>p.DateAdmission));
         }
 
         // GET: AdmissionController/Details/5

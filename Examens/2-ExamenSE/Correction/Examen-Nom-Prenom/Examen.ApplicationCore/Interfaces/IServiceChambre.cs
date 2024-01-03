@@ -10,6 +10,6 @@ namespace Examen.ApplicationCore.Interfaces
 {
     public interface IServiceChambre:IService<Chambre>
     {
-        double PourcentageChambre(Clinique c);
+        double PourcentageChambre(Clinique c);  
     }
 }

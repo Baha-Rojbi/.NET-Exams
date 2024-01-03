@@ -30,7 +30,7 @@ namespace Examen.Web.Controllers
         public ActionResult Details(int id)
         {
             return View();
-        }
+        }  
 
         // GET: ProduitController/Create
         public ActionResult Create()

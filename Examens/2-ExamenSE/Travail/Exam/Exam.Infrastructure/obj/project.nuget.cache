@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNvveJaeSvJujSX9wWE1XJkA0ZqvuyIBSa94NN/Flkr3HKYVRcWHULplmMe+tu5L5DnndpSiVOBRaz18bNwn4Q==",
+  "dgSpecHash": "zHOSiqJQ8zusuWlA6L4bb0eOF7alatQI0flS9nFr2DknKxtdy1EYgEqIFT9aG+fcwkEa+dtrn7BTZN1T6d1UEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\SqueletteExamen\\Exam\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\2-ExamenSE\\Travail\\Exam\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

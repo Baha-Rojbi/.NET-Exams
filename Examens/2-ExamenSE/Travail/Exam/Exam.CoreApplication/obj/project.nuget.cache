@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gz8YUZ6jysxu+FZYqL2AJ/pEjLJalFTaj9ENytS87U36e8+j+KHQfDCaPdoPA0xFbLJjYMqgrABk+kGRXupcag==",
+  "dgSpecHash": "jIqNPKl0KwkqjX4QxjwwmDZ5zJCvuVrxLXxvsSKiUZGRBMrkviXaaV2pQUAWJlCazPs4KPYV656lHg/uF7yEdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\SqueletteExamen\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\2-ExamenSE\\Travail\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",

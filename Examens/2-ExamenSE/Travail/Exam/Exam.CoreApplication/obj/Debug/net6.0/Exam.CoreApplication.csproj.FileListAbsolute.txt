@@ -10,3 +10,15 @@ C:\Users\Asus\OneDrive - ESPRIT\Bureau\Exam\Exam.CoreApplication\obj\Debug\net6.
 C:\Users\Asus\OneDrive - ESPRIT\Bureau\Exam\Exam.CoreApplication\obj\Debug\net6.0\refint\Exam.CoreApplication.dll
 C:\Users\Asus\OneDrive - ESPRIT\Bureau\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.pdb
 C:\Users\Asus\OneDrive - ESPRIT\Bureau\Exam\Exam.CoreApplication\obj\Debug\net6.0\ref\Exam.CoreApplication.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\bin\Debug\net6.0\Exam.CoreApplication.deps.json
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\bin\Debug\net6.0\Exam.CoreApplication.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\bin\Debug\net6.0\Exam.CoreApplication.pdb
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.csproj.AssemblyReference.cache
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.AssemblyInfo.cs
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\refint\Exam.CoreApplication.dll
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\Exam.CoreApplication.pdb
+C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\2-ExamenSE\Travail\Exam\Exam.CoreApplication\obj\Debug\net6.0\ref\Exam.CoreApplication.dll

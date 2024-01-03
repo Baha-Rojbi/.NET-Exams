@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\Test\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\Test\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Test\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Test\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Test\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\Test\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\Test\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -129,7 +130,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
