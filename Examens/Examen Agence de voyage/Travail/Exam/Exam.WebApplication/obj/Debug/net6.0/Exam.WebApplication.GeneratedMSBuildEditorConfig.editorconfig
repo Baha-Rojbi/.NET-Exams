@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\bahar\Desktop\Github\Tests-.Net\Examens\Examen Agence de voyage\Travail\Exam\Exam.WebApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/bahar/Desktop/Github/Tests-.Net/Examens/Examen Agence de voyage/Travail/Exam/Exam.WebApplication/Views/Client/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bahar/Desktop/Github/Tests-.Net/Examens/Examen Agence de voyage/Travail/Exam/Exam.WebApplication/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bahar/Desktop/Github/Tests-.Net/Examens/Examen Agence de voyage/Travail/Exam/Exam.WebApplication/Views/Conseiller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VpbGxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bahar/Desktop/Github/Tests-.Net/Examens/Examen Agence de voyage/Travail/Exam/Exam.WebApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -9,8 +9,7 @@ namespace Exam.CoreApplication.Domain
     public class Activite
     {
         public int ActiviteId { get; set; }
-        public string Ville { get; set; }
-        public string Pays { get; set; }
+ public Zone Zone { get; set; }
         public double Prix { get; set; }
         public string TypeService { get; set; }
         public virtual IList<Pack> Packs { get; set; }

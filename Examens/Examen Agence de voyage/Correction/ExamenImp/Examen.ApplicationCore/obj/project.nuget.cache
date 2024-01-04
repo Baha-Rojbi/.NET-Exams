@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5x0ilIE922sG0O27HklakXKlxlxNoODq35gqL6gbOjN2waaPH3nNGG42bsYdBKLF30qFniLByiKbDI3LU/zuMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\Examen Agence de voyage\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
