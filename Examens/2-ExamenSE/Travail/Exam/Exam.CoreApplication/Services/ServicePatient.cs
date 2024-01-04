@@ -8,7 +8,7 @@ using Exam.CoreApplication.Interfaces;
 
 namespace Exam.CoreApplication.Services
 {
-    public class ServicePatient:Service<Patient>,IPatientService
+    public class ServicePatient:Service<Patient>,IServicePatient
     {
         public ServicePatient(IUnitOfWork unitOfWork) : base(unitOfWork)
         {

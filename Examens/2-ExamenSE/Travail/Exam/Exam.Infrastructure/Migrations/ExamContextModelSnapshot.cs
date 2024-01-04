@@ -109,11 +109,11 @@ namespace Exam.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Cin")
+                    b.Property<string>("CIN")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("DateNaissance")
+                    b.Property<DateTime>("DateNaissacne")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("NumTel")

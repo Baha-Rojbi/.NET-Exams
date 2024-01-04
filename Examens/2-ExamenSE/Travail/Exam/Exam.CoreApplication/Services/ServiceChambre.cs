@@ -8,18 +8,17 @@ using Exam.CoreApplication.Interfaces;
 
 namespace Exam.CoreApplication.Services
 {
-    public class ServiceChambre:Service<Chambre>,IChambreService
-
+    public class ServiceChambre:Service<Chambre>,IServiceChambre
     {
         public ServiceChambre(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
 
-        public double PoucentageChambreSimple(Clinique clinique)
+        public double Pourcentage(Clinique clinique)
         {
-            double nbreSimple= GetMany(ch => ch.CliniqueFk == clinique.CliniqueId).Where(ch => ch.TypeChambre == TypeChambre.Simple).Count();
-            double nbreChambre = GetMany(ch => ch.CliniqueFk == clinique.CliniqueId).Count();
-            return nbreSimple / nbreChambre * 100;
+            double chambreSimple = clinique.Chambres.Where(c => c.TypeChambre == TypeChambre.Simple).Count();
+            double chambres = clinique.Chambres.Count();
+            return (chambreSimple * 100) / chambres;
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Exam.Infrastructure
             optionsBuilder.UseLazyLoadingProxies();
 
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
-Initial Catalog=ExamenClinique;Integrated Security=true; MultipleActiveResultSets = true");
+Initial Catalog=ExamenClinqiue;Integrated Security=true; MultipleActiveResultSets = true");
             base.OnConfiguring(optionsBuilder);
         }
 

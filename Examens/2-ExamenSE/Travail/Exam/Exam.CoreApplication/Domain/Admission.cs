@@ -16,12 +16,11 @@ namespace Exam.CoreApplication.Domain
         [Display(Name = "Le motif de l’admission")]
         public string MotifAdmission { get; set; }
         public int NbJours { get; set; }
-        public virtual Patient Patient { get; set; }
         public virtual Chambre Chambre { get; set; }
-        [ForeignKey("Patient")]
-        public int PatientFk { get; set; }
+        public virtual Patient Patient { get; set; }
         [ForeignKey("Chambre")]
         public int ChambreFk { get; set; }
-
+        [ForeignKey("Patient")]
+        public int PatientFk { get; set; }
     }
 }

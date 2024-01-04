@@ -11,12 +11,13 @@ namespace Exam.CoreApplication.Domain
     {
         [DataType(DataType.EmailAddress)]
         public string AdresseEmail { get; set; }
-        public string Cin { get; set; }
-        public DateTime DateNaissance { get; set; }
+        public string CIN { get; set; }
+        public DateTime DateNaissacne { get; set; }
         public NomComplet NomComplet { get; set; }
         [Key]
         public int NumDossier { get; set; }
         public int NumTel { get; set; }
+  
         public virtual IList<Admission> Admissions { get; set; }
     }
 }

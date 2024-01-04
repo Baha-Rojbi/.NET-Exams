@@ -1,0 +1,3 @@
+in .Net these are my entities 
+
+using interface iService that extends IService<Entity> and Service implementation that extends Service<Entity>,IService 

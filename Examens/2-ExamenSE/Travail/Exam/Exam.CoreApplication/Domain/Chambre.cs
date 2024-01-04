@@ -9,14 +9,14 @@ namespace Exam.CoreApplication.Domain
 {
     public enum TypeChambre
     {
-        Simple,Double
+        Simple,
+        Double
     }
     public class Chambre
     {
         [Key]
         public int NumeroChambre { get; set; }
         public float Prix { get; set; }
-        
         public TypeChambre TypeChambre { get; set; }
         public virtual IList<Admission> Admissions { get; set; }
         public virtual Clinique Clinique { get; set; }

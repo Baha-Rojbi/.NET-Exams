@@ -18,29 +18,22 @@
                 <span asp-validation-for="DateAdmission" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="MotifAdmission" class="control-label"></label>
-                <textarea asp-for="MotifAdmission" class="form-control"></textarea>
-                <span asp-validation-for="MotifAdmission" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="NbJours" class="control-label"></label>
                 <input asp-for="NbJours" class="form-control" />
                 <span asp-validation-for="NbJours" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="MotifAdmission" class="control-label"></label>
+                <textarea asp-for="MotifAdmission" class="form-control"></textarea>
+                <span asp-validation-for="MotifAdmission" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="PatientFk" class="control-label"></label>
-                @*<input asp-for="PatientFk" class="form-control" />*@
-                <select asp-for="PatientFk" class="form-control"
-                        asp-items="ViewBag.PatientList"></select>
-                <span asp-validation-for="PatientFk" class="text-danger"></span>
+                <select asp-for="PatientFk" class="form-control" asp-items="ViewBag.PatientList"></select>
             </div>
             <div class="form-group">
                 <label asp-for="ChambreFk" class="control-label"></label>
-                @*<input asp-for="ChambreFk" class="form-control" />*@
-                <select asp-for="ChambreFk" class="form-control" 
-                        asp-items="ViewBag.ChambreList"
-                ></select>
-                <span asp-validation-for="ChambreFk" class="text-danger"></span>
+                <select asp-for="ChambreFk" class="form-control" asp-items="ViewBag.ChambreList"></select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

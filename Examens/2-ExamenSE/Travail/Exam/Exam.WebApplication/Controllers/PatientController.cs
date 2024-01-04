@@ -1,5 +1,4 @@
 ﻿using Exam.CoreApplication.Interfaces;
-using Exam.CoreApplication.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,11 +6,13 @@ namespace Exam.WebApplication.Controllers
 {
     public class PatientController : Controller
     {
-        IPatientService sp;
-        public PatientController(IPatientService sp)
+        private IServicePatient sp;
+
+        public PatientController(IServicePatient sp)
         {
             this.sp = sp;
         }
+
         // GET: PatientController
         public ActionResult Index()
         {

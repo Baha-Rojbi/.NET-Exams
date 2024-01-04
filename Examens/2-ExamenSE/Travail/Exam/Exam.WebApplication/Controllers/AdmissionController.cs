@@ -1,6 +1,5 @@
 ﻿using Exam.CoreApplication.Domain;
 using Exam.CoreApplication.Interfaces;
-using Exam.CoreApplication.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -9,20 +8,22 @@ namespace Exam.WebApplication.Controllers
 {
     public class AdmissionController : Controller
     {
-        IChambreService sc;
-        IPatientService sp;
-        IAdmissionService sa;
+        private IServiceAdmission sa;
 
-        public AdmissionController(IChambreService sc, IPatientService sp, IAdmissionService sa)
-        {
-            this.sc = sc;
-            this.sp = sp;
-            this.sa = sa;
-        }
+        private IServicePatient sp;
+
+        private IServiceChambre sc;
         // GET: AdmissionController
+        public AdmissionController(IServiceAdmission sa, IServicePatient sp, IServiceChambre sc)
+        {
+            this.sa = sa;
+            this.sp = sp;
+            this.sc = sc;
+        }
+
         public ActionResult Index()
         {
-            return View(sa.GetAll().OrderBy(p => p.DateAdmission));
+            return View(sa.GetAll().OrderBy(s=>s.DateAdmission));
         }
 
         // GET: AdmissionController/Details/5
@@ -34,8 +35,10 @@ namespace Exam.WebApplication.Controllers
         // GET: AdmissionController/Create
         public ActionResult Create()
         {
-            ViewBag.PatientList = new SelectList(sp.GetAll(), "NumDossier", "NumDossier");
-            ViewBag.ChambreList = new SelectList(sc.GetAll(), "NumeroChambre", "NumeroChambre");
+            ViewBag.PatientList = new SelectList(sp.GetAll().ToList(),
+                "NumDossier", "CIN");
+            ViewBag.ChambreList = new SelectList(sc.GetAll().ToList(),
+                "NumeroChambre", "NumeroChambre");
             return View();
         }
 

@@ -1,4 +1,5 @@
 using Exam.CoreApplication.Interfaces;
+using Exam.CoreApplication.Services;
 using Exam.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,8 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DbContext, ExamContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-//builder.Services.AddScoped<IServiceFlight, ServiceFlight>();
-//builder.Services.AddScoped<IServicePlane, ServicePlane>();
+builder.Services.AddScoped<IServicePrestataire, ServicePrestataire>();
+builder.Services.AddScoped<IServicePrestation, ServicePrestation>();
 builder.Services.AddSingleton<Type>(t => typeof(GenericRepository<>));
 var app = builder.Build();
 

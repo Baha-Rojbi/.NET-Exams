@@ -9,10 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DbContext, ExamContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IAdmissionService, ServiceAdmission>();
-builder.Services.AddScoped<IPatientService, ServicePatient>();
-builder.Services.AddScoped<IChambreService, ServiceChambre>();
-//builder.Services.AddScoped<IServicePlane, ServicePlane>();
+builder.Services.AddScoped<IServicePatient, ServicePatient>();
+builder.Services.AddScoped<IServiceAdmission, ServiceAdmission>();
+builder.Services.AddScoped<IServiceChambre, ServiceChambre>();
 builder.Services.AddSingleton<Type>(t => typeof(GenericRepository<>));
 var app = builder.Build();
 

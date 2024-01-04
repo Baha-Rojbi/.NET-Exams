@@ -13,9 +13,9 @@ namespace Exam.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Admission> builder)
         {
-            builder.HasOne(a => a.Patient).WithMany(p => p.Admissions).HasForeignKey(a => a.PatientFk);
-            builder.HasOne(a => a.Chambre).WithMany(c => c.Admissions).HasForeignKey(a => a.ChambreFk);
             builder.HasKey(a => new { a.ChambreFk, a.PatientFk, a.DateAdmission });
+            builder.HasOne(a => a.Chambre).WithMany(ch => ch.Admissions).HasForeignKey(a => a.ChambreFk);
+            builder.HasOne(a => a.Patient).WithMany(p => p.Admissions).HasForeignKey(a => a.PatientFk);
         }
     }
 }
