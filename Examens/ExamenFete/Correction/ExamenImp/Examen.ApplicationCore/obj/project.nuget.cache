@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2Yh+KAM8gEAZwnhnRTBglF8+Nnu8TcivvsLmLNanMWrWz7ix4kJzG/ylU8ZyKryjW+s2cPrUfl+FqZWhVEhVIQ==",
+  "dgSpecHash": "D4Phqf46NTp3UmZ+opOHlBkZioeo685CvW9nuk5z+I9x0GUVyNL/VzrqNqiWuF8K4MgpxxQB5yP+TPOAHlXaug==",
   "success": true,
-  "projectFilePath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BAZINFO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512"
+    "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512"
   ],
   "logs": []
 }

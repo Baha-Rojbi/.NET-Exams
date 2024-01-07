@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Exam.CoreApplication.Domain.Candidature>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateEntretien)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateEpreuve)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dossier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Resultat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enseignant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Concours)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEntretien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEpreuve)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dossier)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resultat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enseignant.UPFk)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Concours.Promotion)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj": {}
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj": {}
   },
   "projects": {
-    "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
         "projectName": "Examen.ApplicationCore",
-        "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\BAZINFO\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BAZINFO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
         "projectName": "Examen.Infrastructure",
-        "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\BAZINFO\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BAZINFO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-                "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
               }
             }
           }
@@ -140,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj": {
+    "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj",
+        "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj",
         "projectName": "Examen.WEB",
-        "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj",
-        "packagesPath": "C:\\Users\\BAZINFO\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.WEB\\obj\\",
+        "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.WEB\\Examen.WEB.csproj",
+        "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.WEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BAZINFO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,11 +168,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-                "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
               },
-              "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-                "projectPath": "D:\\.NET 23-24\\Revision\\Fete\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+              "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\ExamenFete\\Correction\\ExamenImp\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
               }
             }
           }
@@ -217,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

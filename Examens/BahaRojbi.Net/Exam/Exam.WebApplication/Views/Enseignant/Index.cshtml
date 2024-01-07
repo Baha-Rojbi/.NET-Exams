@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Exam.CoreApplication.Domain.Enseignant>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="index">
+    <fieldset>
+        <legend> Recherche Par UP</legend>
+        UP : <input type="text" name="code" />
+        Promotion : <input type="text" name="promotion" />
+        <input type="submit" value="Serach" />
+    </fieldset>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Grade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Specialite)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UP)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Specialite)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UP.Nom)
+            </td>
+            <td>
+                    @Html.ActionLink("Candidature","Index","Candidature",new {id=item.Matricule})
+                <a asp-action="Details" asp-route-id="@item.Matricule">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Matricule">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
