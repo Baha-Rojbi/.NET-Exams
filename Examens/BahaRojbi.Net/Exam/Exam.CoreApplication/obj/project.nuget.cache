@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3oFk1ZdRMknjmZWN6wTrz868uOdbILTyFgEeYBw+9v+cuR3ZrDgfmq4lBUE1PgCRRnK1HTj0lHfOG3oHMNtwg==",
+  "dgSpecHash": "96B0Am0ruMjGeiRnuOy++p9OXz1veNMH9+eEFapVC4w/9K1SPJOykkoG3Oujv3MsSMBzQvWXNW+PP5PIM05WyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",

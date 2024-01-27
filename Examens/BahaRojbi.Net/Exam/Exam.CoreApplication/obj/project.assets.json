@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
+      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
       "projectName": "Exam.CoreApplication",
-      "projectPath": "C:\\Users\\bahar\\Desktop\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
+      "projectPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\Exam.CoreApplication.csproj",
       "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bahar\\Desktop\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\obj\\",
+      "outputPath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\BahaRojbi.Net\\Exam\\Exam.CoreApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",

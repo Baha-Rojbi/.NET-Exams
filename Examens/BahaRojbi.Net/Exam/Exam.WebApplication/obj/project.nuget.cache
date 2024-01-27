@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9Oh1j3e9SkYX+O3GodWhXbW3T7PFIR2eB5Nz9z+Jjr489by91l4tayyU3e/FbaPwpLB/cfuzoObgECA59DteQ==",
+  "dgSpecHash": "WUzQeY1So0tNCa8onPwLP3hfJXWXqGHR9TC/BLXsegmyULlgkRh1sP7ssyHqeWsk0ZRtWT6dyy2SeLpddOI/Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bahar\\Desktop\\BahaRojbi.Net\\Exam\\Exam.WebApplication\\Exam.WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\bahar\\Desktop\\Github\\Tests-.Net\\Examens\\BahaRojbi.Net\\Exam\\Exam.WebApplication\\Exam.WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bahar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bahar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
